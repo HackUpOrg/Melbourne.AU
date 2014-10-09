@@ -1,4 +1,4 @@
-![HackUp](http://i.imgur.com/DVqT2k1.png)
+![HackUp](http://i.imgur.com/5eLIr2c.png)
 
 ##What is this?
 A 100% *Hands On* lab where you sit down and work on a side project and/or experiment with new tech. If you don't have a laptop or some other hardware, then please don't come.  
