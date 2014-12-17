@@ -15,7 +15,7 @@ You typical meetup where you rock up, listen to a speaker and then eat some unhe
 *Anything*. We're code/hardware agnostic.
 
 ##Next Lab
-- Lab.2 [Thursday 11th December](https://github.com/HackUpOrg/Melbourne.AU/issues/2) - 6pm to 8:00/8:30pm.
+- Lab.3 [Thursday 5th February](https://github.com/HackUpOrg/Melbourne.AU/issues/3) - 6pm to 8:00/8:30pm.
 
 (Sign up above.)
 
