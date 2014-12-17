@@ -1,5 +1,11 @@
 ![HackUp](http://i.imgur.com/5eLIr2c.png)
 
+##Next Lab
+- Lab.3 [Thursday 5th February](https://github.com/HackUpOrg/Melbourne.AU/issues/3) - 6pm to 8:00/8:30pm.
+
+--
+--
+
 ##What is this?
 A 100% *Hands On* lab where you sit down and work on a side project and/or experiment with new tech - **_for a few hours only._**
 
@@ -15,11 +21,6 @@ You typical meetup where you rock up, listen to a speaker and then eat some unhe
 
 ##Skills required
 *Anything*. We're code/hardware agnostic.
-
-##Next Lab
-- Lab.3 [Thursday 5th February](https://github.com/HackUpOrg/Melbourne.AU/issues/3) - 6pm to 8:00/8:30pm.
-
-(Sign up above.)
 
 --  
 
