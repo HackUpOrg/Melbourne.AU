@@ -1,7 +1,7 @@
 ![HackUp](http://i.imgur.com/5eLIr2c.png)
 
 ![Next Lab](http://i.imgur.com/C6ebAuP.png)
-- Lab.3 [Thursday 5th February](https://github.com/HackUpOrg/Melbourne.AU/issues/3) - 6pm to 8:00/8:30pm.
+- Lab.3 [Thursday 12th March](https://github.com/HackUpOrg/Melbourne.AU/issues/5) - 6pm to 8:00/8:30pm.
 
 
 --
