@@ -1,7 +1,7 @@
 ![OpenHack](http://i.imgur.com/CUl4rEP.png)
 
 ![Next Lab](http://i.imgur.com/C6ebAuP.png)
-- [Lab.5: Thursday 16th April](https://github.com/HackUpOrg/Melbourne.AU/issues/6) - 6pm to 8:00/8:30pm.  
+- [Lab.5: Thursday 23rd April](https://github.com/HackUpOrg/Melbourne.AU/issues/6) - 6pm to 8:00/8:30pm.  
 Space: Discovery Centre Seminar Room at Melbourne Museum  
 Address: Lower Ground, Melbourne Museum, Carlton Gardens
 
